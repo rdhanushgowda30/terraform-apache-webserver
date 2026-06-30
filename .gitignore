@@ -7,3 +7,7 @@ crash.log
 *.tfstate
 *.tfstate.backup
 crash.log
+.terraform/
+*.tfstate
+*.tfstate.backup
+crash.log
